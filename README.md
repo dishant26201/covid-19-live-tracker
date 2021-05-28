@@ -12,7 +12,7 @@ View the project here: https://covid-19-live-tracker-a4f56.web.app
 
 ## Installation and Setup Instructions
 
-1. Make sure you have node and npm or yarn installed globally on your machine. Resources can be found here:
+1. Make sure you have `node` and `npm` or `yarn` installed globally on your machine. Resources can be found here:
 
    - Node: https://nodejs.org/en/download/
    - Yarn: https://classic.yarnpkg.com/en/docs/install/#mac-stable
@@ -20,10 +20,10 @@ View the project here: https://covid-19-live-tracker-a4f56.web.app
 2. Clone the repository or download it as a zip file on your system.
 
 3. To install dependencies run either of the commands:
-   - npm install
-   - yarn
+   - `npm install`
+   - `yarn`
 
-4. Start the server by running npm start
+4. Start the server by running `npm start`
 
 5. The app can viewed in the browser locally on http://localhost:3000
 
