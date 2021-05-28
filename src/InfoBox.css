@@ -1,0 +1,49 @@
+.infoBox {
+  flex: 1;
+  cursor: pointer;
+}
+
+.infoBox:not(:last-child) {
+  margin-right: 15px;
+}
+
+.infoBox--selected {
+  border-top: 10px solid rgb(63, 228, 34);
+}
+
+.infoBox--orange {
+  border-color: rgb(251, 68, 67);
+}
+
+.infoBox--red {
+  border-color: rgb(203, 16, 51);
+}
+
+.infoBox--green {
+  border-color: rgb(63, 228, 34);
+}
+
+.infoBox_cases {
+  font-weight: 800;
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.infoBox_cases--green {
+  color: rgb(51, 202, 51) !important;
+}
+
+.infoBox_cases--red {
+  color: rgb(203, 16, 51) !important;
+}
+
+.infoBox_cases--orange {
+  color: rgb(251, 68, 67) !important;
+}
+
+.infoBox_total {
+  color: #6c757d;
+  font-weight: 700 !important;
+  font-size: 0.8rem !important;
+  margin-top: 15px !important;
+}
