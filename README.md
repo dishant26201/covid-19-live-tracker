@@ -1,6 +1,6 @@
 ## Covid-19 Live Tracker
 
-A ReactJS web application to track global and local coronavirus cases summarised with confirmed cases, recoveries, and deaths. The application is equipped with an interactive map and a line graph that provides 120 days of global and country specific statistics.
+A ReactJS web application that uses external APIs to track global and local coronavirus cases summarised with confirmed cases, recoveries, and deaths. The application is equipped with an interactive map and a line graph that provides 120 days of global and country specific statistics.
 
 
 ## Project Status
@@ -32,3 +32,5 @@ View the project here: https://covid-19-live-tracker-a4f56.web.app
 
 1. https://youtu.be/cF3pIMJUZxM
    - Description: concept and basic workflow
+2. https://disease.sh
+   - API and statistics
