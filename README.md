@@ -25,10 +25,10 @@ View the project here: https://covid-19-live-tracker-a4f56.web.app
 
 4. Start the server by running `npm start`
 
-5. The app can viewed in the browser locally on http://localhost:3000
+5. The app can be viewed locally, in a browser of your choice, on http://localhost:3000
 
 
 ## Citations
 
 1. https://youtu.be/cF3pIMJUZxM
-   - Description: concept and basic features
+   - Description: concept and basic workflow
