@@ -5,17 +5,15 @@ A ReactJS web application that uses external APIs to track global and local coro
 
 ## Project Status
 
-This project is complete and has been deployed via Firebase. Covid-19 vaccination and testing statistics might be added later in the future.
-
-View the project here: https://covid-19-live-tracker-a4f56.web.app
+This project is complete and has been deployed via Firebase. Covid-19 vaccination and testing statistics might be added later in the future. [Click here](https://covid-19-live-tracker-a4f56.web.app) to view the project.
 
 
 ## Installation and Setup Instructions
 
-1. Make sure you have `node` and `npm` or `yarn` installed globally on your machine. Resources can be found here:
+1. Make sure you have `node` and `npm` or `yarn` installed globally on your machine.
 
-   - Node: https://nodejs.org/en/download/
-   - Yarn: https://classic.yarnpkg.com/en/docs/install/#mac-stable
+   - Install `node` from [here](https://nodejs.org/en/download/)
+   - Install `yarn` from [here](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 2. Clone the repository or download it as a zip file on your system.
 
@@ -31,6 +29,6 @@ View the project here: https://covid-19-live-tracker-a4f56.web.app
 ## Citations
 
 1. https://youtu.be/cF3pIMJUZxM
-   - Description: concept and basic workflow
+   - Description: concept and basic features
 2. https://disease.sh
    - API and statistics
