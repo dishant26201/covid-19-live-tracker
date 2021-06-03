@@ -10,7 +10,7 @@ This project is complete and has been deployed via Firebase. Covid-19 vaccinatio
 
 ## Installation and Setup Instructions
 
-1. Make sure you have `node` and `npm` or `yarn` installed globally on your machine.
+1. Make sure you have `node` and `npm` or `yarn` installed globally in your machine.
 
    - Install `node` from [here](https://nodejs.org/en/download/)
    - Install `yarn` from [here](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
@@ -19,7 +19,7 @@ This project is complete and has been deployed via Firebase. Covid-19 vaccinatio
 
 3. To install dependencies run either of the commands:
    - `npm install`
-   - `yarn`
+   - `yarn` (if you have yarn installed)
 
 4. Start the server by running `npm start`
 
